@@ -37,7 +37,7 @@ API_HOST = 'https://notify-api.line.me'
 
 url = 'https://notify-api.line.me/api/notify'
 
-token = {'Authorization': 'Bearer mtOi5sJjEjozZGA9KELM2H5Im61uq4Rt6zdiKqCD3AT'}
+token = {'Authorization': 'Bearer rEFS1SU8oNnLkXbNsRZl3O4KPuojQbzjgGe6gbgDk4a'}
 
 message = []
 message.append("\n☆ ☆ 이번주 베스트셀러 순위 ☆ ☆"+"\n\n")
